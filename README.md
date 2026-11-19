@@ -1,8 +1,8 @@
 # GTA VI trophy rarity forecast
 
 [![GTA VI trophy rarity forecast](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/verlianmr/gta6-trophy-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/verlianmr/gta6-trophy-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/verlianmr/gta6-trophy-forecast-h1/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/verlianmr/gta6-trophy-forecast-h1/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
 
 An entry for [make.fun's GTA VI trophy rarity forecast](https://make.fun/bounty/gta6-trophy-rarity-forecast-01):
 for every trophy of *Grand Theft Auto VI* on PlayStation 5, five quantiles of its earn rate on Exophase at
